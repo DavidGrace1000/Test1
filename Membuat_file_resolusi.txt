@@ -4,3 +4,4 @@ david_repository
 - lebih rajin kuliah
 - lebih rajin berdoa
 - lebih rajin membaca Alkitab
+-test
